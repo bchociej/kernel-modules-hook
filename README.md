@@ -1,4 +1,7 @@
-# <p align="center">kernel-modules-hook</p>
+# kernel-modules-hook
+
+*This is my (bchociej) own personal fork. You're welcome to use it if you like,
+but it's just a fork a made to tweak for my own use.*
 
 Tired of missing modules when updating the kernel?<br/>
 Annoyed by `modprobe: FATAL: Module smth not found in directory /lib/modules/new-kernel`?<br/>
